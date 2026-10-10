@@ -5,7 +5,7 @@ layout: default
 This website contains a release of the material from [(Bansal et al., 2026)](./https://arxiv.org/abs/2601.10082), an archival paper appearing in the [LT4CPR workshop](https://lt4cpr.github.io/aacl2026-workshop-LT4CPR/index.html) of [AACL-IJCNLP 2026](https://2026.aaclnet.org/). (**update arXiv link**)
 
 ## **Downloads**
-See [files](./files.html) to download output translation files.
+See the [files page](./files.html) to download output translation files.
 
 ## **Abstract**
 
