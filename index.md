@@ -2,7 +2,7 @@
 layout: default
 ---
 
-This website contains a release of the material from [(Bansal et al., 2026)](./https://arxiv.org/abs/2601.10082), an archival paper appearing in the [LT4CPR workshop](https://lt4cpr.github.io/aacl2026-workshop-LT4CPR/index.html) of [AACL-IJCNLP 2026](https://2026.aaclnet.org/). (**update arXiv link**)
+This website contains a release of the material from [(Bansal et al., 2026)](https://arxiv.org/abs/2601.10082), an archival paper appearing in the [LT4CPR workshop](https://lt4cpr.github.io/aacl2026-workshop-LT4CPR/index.html) of [AACL-IJCNLP 2026](https://2026.aaclnet.org/). (**update arXiv link**)
 
 ## **Downloads**
 See the [files page](./files.html) to download output translation files.
@@ -14,7 +14,7 @@ Communication in times of crisis is essential. However, there is often a mismatc
 
 ## **Communications**
 
-The results of this paper have been used in [(Wilson et al., 2026)](./https://arxiv.org/abs/2601.10082) to (**FILL IN HERE and update link**).
+The results of this paper have been used in [(Wilson et al., 2026)](https://arxiv.org/abs/2601.10082) to (**FILL IN HERE and update link**).
 
 ## **Contact**
 
