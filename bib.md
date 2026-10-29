@@ -2,7 +2,9 @@
 layout: default
 ---
 
-## **Bansal et al 2026 bib entry**:
+## **Bansal et al 2026 bib entry**
+
+Please cite if you use any of the data in this repository in your own research.
 
     @inproceedings{bansal-etal-2026,
         title = {Is {MT} {R}eady for the {N}ext {C}risis or {P}andemic?},
