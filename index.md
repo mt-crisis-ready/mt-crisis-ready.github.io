@@ -32,4 +32,4 @@ Please contact the corresponding author of Bansal et al 2026, Vipasha Bansal, at
 ## **Acknowledgments**
 
 This work was partially supported by the National Science Foundation under the award CIRC 2346335. We would also like to thank the students of the Spring 2023, 2025 and 2026 LT4CPR graduate seminars at the University of Washington (Priyam Basu, Melody Bechler, Allison Burton, Alexandra Cassell, Jose Cols, Richard Forrester, Chelsea Kendrick, Lily Kurek, Vanesa Marar, Ijeoma Osakwe, Yongsin Park, Anantha Rao, Helen Salgi, and Natasha Schimka) for their helpful input and suggestions in the Bansal et al 2026 paper and ultimately for this repository. Special thanks also goes to Jen Wilson, whose very closely related paper presented at the same LT4CPR workshop ([(Wilson et al., 2026)](https://arxiv.org/abs/2601.10082)), along with her
-work with emergency managers across the United States, spurred many changes to the paper and which led directly to the creation of this repository. 
+work with emergency managers across the United States, spurred many changes to the paper, which led directly to the creation of this repository. 
