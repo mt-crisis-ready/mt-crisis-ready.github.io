@@ -36,4 +36,4 @@ work with emergency managers across the United States, spurred many changes to t
 
 ## **License**
 
-All content is made publicly available through a Creative Commons CC0 license.
+All content is made publicly available through a Creative Commons CC BY license.
