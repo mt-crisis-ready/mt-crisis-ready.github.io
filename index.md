@@ -11,8 +11,10 @@ This repository was created to host **all** data that was translated as part of 
 ## **Citation Requirements**
 If you use any of the data from the snapshots or their evaluations, please cite the [Bansal et al., 2026](https://arxiv.org/abs/2601.10082) paper. The citation is as follows (or in [bib](./bib.md) format):
 
-    Vipasha Bansal, William D. Lewis, Nicole Mihaylova, Elizabeth Brown, and Benjamin Pong. 2026. "Is MT Ready for the Next Crisis or Pandemic?" In **Proceedings of the Language Technologies for Crisis Preparedness and Response (LT4CPR Workshop)**, Hengqin, Zhuhai, China. Association for Computational Linguistics. https://arxiv.org/abs/2601.10082.
-
+    Vipasha Bansal, William D. Lewis, Nicole Mihaylova, Elizabeth Brown, and Benjamin Pong. 2026. 
+    "Is MT Ready for the Next Crisis or Pandemic?" In Proceedings of the Language Technologies 
+    for Crisis Preparedness and Response (LT4CPR Workshop), Hengqin, Zhuhai, China. 
+    Association for Computational Linguistics. https://arxiv.org/abs/2601.10082.
 
 ## **Downloads**
 See the [files page](./files.html) for information about the data and to download output translation files.
@@ -21,15 +23,13 @@ See the [files page](./files.html) for information about the data and to downloa
 
 The results of this paper have been used in [(Wilson et al., 2026)](https://arxiv.org/abs/2601.10082) to (**FILL IN HERE and update link**).
 
-## **Background**
-
-## **Abstract**
-
-
 ## **Future Research**
 
 ## **Contact**
 
-Please contact the corresponding author, Vipasha Bansal, at vipashab [at] uw [dot] edu.
+Please contact the corresponding author of Bansal et al 2026, Vipasha Bansal, at vipashab [at] uw [dot] edu.
 
 ## **Acknowledgments**
+
+This work was partially supported by the National Science Foundation under the award CIRC 2346335. We would also like to thank the students of the Spring 2023, 2025 and 2026 LT4CPR graduate seminars at the University of Washington (Priyam Basu, Melody Bechler, Allison Burton, Alexandra Cassell, Jose Cols, Richard Forrester, Chelsea Kendrick, Lily Kurek, Vanesa Marar, Ijeoma Osakwe, Yongsin Park, Anantha Rao, Helen Salgi, and Natasha Schimka) for their helpful input and suggestions in the Bansal et al 2026 paper and ultimately for this repository. Special thanks also goes to Jen Wilson, whose very closely related paper presented at the same LT4CPR workshop ([(Wilson et al., 2026)](https://arxiv.org/abs/2601.10082)), along with her
+work with emergency managers across the United States, spurred many changes to the paper and which led directly to the creation of this repository. 
