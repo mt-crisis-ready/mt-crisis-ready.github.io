@@ -4,31 +4,24 @@ title: Files
 description: Downloadable output translation files.
 ---
 
-Download all files:
-<a href="assets/downloadable/test_folder_mt-crisis-ready.zip" download>Download test files.</a>
-Or see individual file downloads, information about the data, and usage requirements below.
+Download files by language and system below:
+<a href="assets/downloadable/2023_Google.zip" download>2023, Google</a>
+<a href="assets/downloadable/2023_Google.zip" download>2023, Microsoft</a>
+<a href="assets/downloadable/2023_Google.zip" download>2025, Google</a>
+<a href="assets/downloadable/2023_Google.zip" download>2025, Microsoft</a>
+<a href="assets/downloadable/2023_Google.zip" download>2026, Claude</a>
+<a href="assets/downloadable/2023_Google.zip" download>2026, Gemini</a>
+<a href="assets/downloadable/2023_Google.zip" download>2026, GPT-4o</a>
+<a href="assets/downloadable/2023_Google.zip" download>2026, GPT-5.4-Full</a>
+<a href="assets/downloadable/2023_Google.zip" download>2026, GPT-5.4-Mini</a>
+<a href="assets/downloadable/2023_Google.zip" download>2026, Microsoft</a>
+
+Usage requirements and information about the data are listed below.
 
 ## Usage Requirements
-Files are available under a **insert license name and link here** license. (**note: TICO uses CC0. our repo is under CC1 right now.**)
+All content is made publicly available through a Creative Commons CC BY license.
 
 ## Data Information
 
-## Individual File Downloads
-
-# EX Direction
-
-| Claude       | Gemini       | Google       | GPT-4o       | GPT-5.4-mini |   GPT-5.4-full | Microsoft    |
-|:-------------|:-------------|:-------------|:-------------|:-------------|:-------------|:-------------|
-| test           | test           | test           | test           | test           | test           | test           |
-| test           | test           | test           | test           | test           | test           | test           |
-| test           | test           | test           | test           | test           | test           | test           |
-| test           | test           | test           | test           | test           | test           | test           |
-| test           | test           | test           | test           | test           | test           | test           |
-| test           | test           | test           | test           | test           | test           | test           |
-| test           | test           | test           | test           | test           | test           | test           |
-| test           | test           | test           | test           | test           | test           | test           |
-| test           | test           | test           | test           | test           | test           | test           |
-
-# XE Direction
 
 [Homepage](./)
