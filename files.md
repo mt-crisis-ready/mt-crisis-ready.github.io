@@ -4,7 +4,7 @@ title: Files
 description: Downloadable output translation files.
 ---
 
-Download files by language and system below:
+Download .zip folders by language and system below:
 
 <a href="assets/downloadable/2023_Google.zip" download>2023, Google</a>
 
