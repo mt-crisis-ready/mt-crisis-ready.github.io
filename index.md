@@ -17,13 +17,15 @@ If you use any of the data from the snapshots or their evaluations, or any of th
     Association for Computational Linguistics. https://arxiv.org/abs/2601.10082.
 
 ## **Downloads**
-See the [files page](./files.html) for information about the data and to download output translation files.
+See the [files](./files.html) page for information about the data and to download output translation files.
 
 ## **Communications**
 
-The results of this paper have been used in [(Wilson et al., 2026)](https://arxiv.org/abs/2601.10082) to (**FILL IN HERE and update link**).
+The results of this paper have been used in Wilson et al., 2026,  [(Wilson et al., 2026)](https://arxiv.org/abs/2610.32842).
 
 ## **Future Research**
+
+See the [Bansal et al., 2026](https://arxiv.org/abs/2601.10082) paper for applications and future work in this field.
 
 ## **Contact**
 
