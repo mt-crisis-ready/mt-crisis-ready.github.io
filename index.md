@@ -9,7 +9,7 @@ In the study **Is Machine Translation Ready for the Next Crisis or Pandemic** [(
 This repository was created to host **all** data that was translated as part of the [Bansal et al., 2026](https://arxiv.org/abs/2601.10082) study. This includes snapshots for 2026 for the five translation services (including three snapshots for GPT, namely, GPT-4o, GPT-5.4 and GPT-5.4-mini), and additional snapshots in 2023 and 2025 for Microsoft Translator and Google Translate (2,100 sentences per language and direction per snapshot). Also included are all code used to retrieve the data from the various services, as well as code used to evaluate the output. Evaluation metrics that were used include BLEU, CHRF, CHRF++, BertScore and COMET. (A complete set of scores across all languages can be found in the appendices of the [Bansal et al., 2026](https://arxiv.org/abs/2601.10082) paper.)
 
 ## **Citation Requirements**
-If you use any of the data from the snapshots or their evaluations, or any of the code used in their retrieval, please cite the [Bansal et al., 2026](https://arxiv.org/abs/2601.10082) paper. The citation is as follows):
+If you use any of the data from the snapshots or their evaluations, or any of the code used in their retrieval, please cite the [Bansal et al., 2026](https://arxiv.org/abs/2601.10082) paper. The citation is as follows (or in [bib](./bib.html) format):
 
     Vipasha Bansal, William D. Lewis, Nicole Mihaylova, Elizabeth Brown, and Benjamin Pong. 2026. 
     "Is MT Ready for the Next Crisis or Pandemic?" In Proceedings of the Language Technologies 
@@ -17,13 +17,15 @@ If you use any of the data from the snapshots or their evaluations, or any of th
     Association for Computational Linguistics. https://arxiv.org/abs/2601.10082.
 
 ## **Downloads**
-See the [files page](./files.html) for information about the data and to download output translation files.
+See the [files](./files.html) page for information about the data and to download output translation files.
 
 ## **Communications**
 
-The results of this paper have been used in [(Wilson et al., 2026)](https://arxiv.org/abs/2601.10082) to (**FILL IN HERE and update link**).
+The results of this paper have been used in Wilson et al., 2026,  [(Wilson et al., 2026)](https://arxiv.org/abs/2610.32842).
 
 ## **Future Research**
+
+See the [Bansal et al., 2026](https://arxiv.org/abs/2601.10082) paper for applications and future work in this field.
 
 ## **Contact**
 
