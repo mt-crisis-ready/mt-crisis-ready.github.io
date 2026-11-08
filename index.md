@@ -21,7 +21,7 @@ See the [files](./files.html) page for information about the data and to downloa
 
 ## **Communications**
 
-The results of this paper have been used in Wilson et al., 2026,  [(Wilson et al., 2026)](https://arxiv.org/abs/2610.32842).
+The results of this paper have been used in [(Wilson et al., 2026)](https://arxiv.org/abs/2610.32842).
 
 ## **Future Research**
 
