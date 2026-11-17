@@ -12,8 +12,8 @@ This repository was created to host **all** data that was translated as part of 
 If you use any of the data from the snapshots or their evaluations, or any of the code used in their retrieval, please cite the [Bansal et al., 2026](https://arxiv.org/abs/2601.10082) paper. The citation is as follows (or in [bib](./bib.html) format):
 
     Vipasha Bansal, William D. Lewis, Nicole Mihaylova, Elizabeth Brown, and Benjamin Pong. 2026. 
-    "Is MT Ready for the Next Crisis or Pandemic?" In Proceedings of the Language Technologies 
-    for Crisis Preparedness and Response (LT4CPR Workshop), Hengqin, Zhuhai, China. 
+    "Is MT Ready for the Next Crisis or Pandemic?" In Proceedings of the First Language Technologies 
+    for Crisis Preparedness and Response (LT4CPR) Workshop, Hengqin, Zhuhai, China. 
     Association for Computational Linguistics. https://arxiv.org/abs/2601.10082.
 
 ## **Downloads**
